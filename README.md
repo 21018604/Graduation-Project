@@ -1,4 +1,4 @@
-**Research**
+**RESEARC**
 
 **My main concern is the effect of the disappearance of the Other on democracy.**
 
@@ -19,3 +19,7 @@ Neighborhoods and workspaces, the places of daily interaction, disappear. It is 
 Use the neighborhood as a basis for seeing the world. If a citizen learns about the world through the neighborhood, she will know who the nannies, cleaners, security guards, and maintenance workers are in the neighborhood, and will talk to the hairdressers and vendors who live close to the neighborhood, but who do not have access to it. she will find out how the neighborhood was built: what was the original use of the land, where did the original inhabitants go, and under what conditions did they leave. In this way, she reflects on what separated people and what forces and conditions now bring them together. Understanding the different perspectives of different groups of people will enable her to be aware of the different demands when thinking about public affairs, whether it is transport, waste separation, welfare reform, etc. The neighborhood will give people the ability to observe in a way that they would not otherwise be able to. 
 
 "This is an outward manifestation of the homogenization and alienation of the 'neighborhood'. This shift is related to the development of society and affects our experience of time, space, and emotions. 
+
+
+**ARTIST**
+https://www.lishaaa.net/new-page-2
