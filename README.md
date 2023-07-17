@@ -1,4 +1,4 @@
-Research
+**Research**
 
 My main concern is the effect of the disappearance of the Other on democracy.
 
