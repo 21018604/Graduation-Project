@@ -22,4 +22,4 @@ Use the neighborhood as a basis for seeing the world. If a citizen learns about 
 
 
 **ARTIST**
-https://www.lishaaa.net/new-page-2
+https://tonyoursler.com/agentic-iced-etcetera-ukraine
