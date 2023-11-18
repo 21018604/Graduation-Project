@@ -1,5 +1,6 @@
 **Original research direction**
 
+
 **My main concern is the effect of the disappearance of the Other on democracy.**
 
 I believe that the existence of the Other is crucial. The Other represents different interests and perspectives and, through their participation and expression, can provide diversity and representativeness. The presence of the Other promotes comprehensiveness in public debate, exchange of views, and decision-making.
@@ -21,6 +22,7 @@ Use the neighborhood as a basis for seeing the world. If a citizen learns about 
 "This is an outward manifestation of the homogenization and alienation of the 'neighborhood'. This shift is related to the development of society and affects our experience of time, space, and emotions. 
 
 
+
 **Now Research Direction.**
 
 Recently, I felt a profound sense of emptiness that prevented me from continuing in my original direction of the graduation project, so I began to explore inwardly the source of my feelings of emptiness. I would like to share my feelings and thoughts on this process.
@@ -28,8 +30,46 @@ Recently, I felt a profound sense of emptiness that prevented me from continuing
 There were many reasons why I developed a sense of emptiness. Firstly, I had to go back to my home country to take care of my grandmother due to her illness. During the time I was back home, I felt like waking up from a dream and realized that I had only idealized many things. My study life in the UK seemed to become distant and blurred. Secondly, my relationship with my parents was also in trouble. They forcefully asked me to fall in love and take the civil service exam as soon as possible, which made me feel resentful and sad. There was a big difference between my values and theirs, and there were more and more conflicts between us. Once again, I felt confused and scared about my future. I learned that the employment environment in China is very bad, many people are unemployed and many students can't find a job. Although I was interested in what I was learning, I didn't know if it could bring me value and meaning. I even began to think about whether to try the civil service job that I had always hated. Finally, I had a setback in my relationship. I broke up with my boyfriend, but I couldn't get back together with him because my pride and reality got in the way. I felt a blurring and uncertainty of morals and values in the face of different cultures, different values, and a plethora of digital media. I feel like I'm oscillating between two extremes (traditional and new values) and I can't find where I belong or what I aspire to be.
 
 
+
 **Explore the reasons for feeling nothingness.**
 
 Attempts are made to understand the causes of nothingness by reading books, reading literature, watching videos, and talking to friends and family.
+
 ![IMG_1373](https://github.com/21018604/Graduation-Project/assets/91647401/4f0db945-fd00-4b5a-a033-e9ad163ab120)
+
+
+
+**BACKGROUND**
+
+
+**RESEARCH**
+
+
+**DEEP RESEARCH**
+
+
+**BRAINSTROM**
+
+
+**SKETCH**
+
+[IMG_1372.pdf](https://github.com/21018604/Graduation-Project/files/13401358/IMG_1372.pdf)
+[IMG_1371.pdf](https://github.com/21018604/Graduation-Project/files/13401359/IMG_1371.pdf)
+[未命[未命名作品 2.pdf](https://github.com/21018604/Graduation-Project/files/13401361/2.pdf)
+
+
+**INSTALLATION BUILD**
+
+
+**TEST**
+
+
+**FINAL WORKS**
+
+
+**SUMMARY**
+
+
+
+
 
