@@ -31,4 +31,5 @@ There were many reasons why I developed a sense of emptiness. Firstly, I had to 
 **Explore the reasons for feeling nothingness.**
 
 Attempts are made to understand the causes of nothingness by reading books, reading literature, watching videos, and talking to friends and family.
+![IMG_1373](https://github.com/21018604/Graduation-Project/assets/91647401/4f0db945-fd00-4b5a-a033-e9ad163ab120)
 
