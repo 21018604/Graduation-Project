@@ -57,7 +57,7 @@ Attempts are made to understand the causes of nothingness by reading books, read
 ![IMG_1372](https://github.com/21018604/Graduation-Project/assets/91647401/dc1c748f-1bdb-4186-a15f-6bf8201d0db2)
 ![未命名作品](https://github.com/21018604/Graduation-Project/assets/91647401/b6975a98-87b4-4b15-be94-34895d9d9e0e)
 ![未命名作品 2](https://github.com/21018604/Graduation-Project/assets/91647401/d3325bdf-38ed-4280-ad1b-1c9fdbef0c9e)
-
+![未命名作品_副本](https://github.com/21018604/Graduation-Project/assets/91647401/17df414e-7bd8-4ec5-8828-14d9550e0f11)
 
 **INSTALLATION BUILD**
 
