@@ -1,4 +1,4 @@
-![IMG_1386](https://github.com/21018604/Graduation-Project/assets/91647401/25282614-65f3-4bda-bdad-602cb493eab6)**Original research direction**
+direction**
 
 
 **My main concern is the effect of the disappearance of the Other on democracy.**
@@ -70,7 +70,8 @@ Attempts are made to understand the causes of nothingness by reading books, read
 ![IMG_1![IMG_1399](https://github.com/21018604/Graduation-Project/assets/91647401/4067c358-5a12-4fa2-a0e2-aba2c0eff9ff)
 399](https://github.com/21018604/Graduation-Project/assets/91647401/dc2ab30a-4212-4f74-b775-72912acd30ca)
 ![IMG_1389](https://github.com/21018604/Graduation-Project/assets/91647401/b7d47f80-6421-4585-9612-5c9b287885b7)
-![Uploading IMG_1401.JPG…]()
+![U![IMG_1375](https://github.com/21018604/Graduation-Project/assets/91647401/72a2a35f-b361-4f5e-9151-0d70b77da1b6)
+ploading IMG_1401.JPG…]()
 
 
 **TEST**
@@ -79,6 +80,7 @@ Attempts are made to understand the causes of nothingness by reading books, read
 ![IMG_1379](https://github.com/21018604/Graduation-Project/assets/91647401/ab170d50-d0e3-45f4-b334-05f27d3b060f)
 ![![IMG_1398](https://github.com/21018604/Graduation-Project/assets/91647401/b0d8b1c8-eb9d-4b74-bf42-fca4df5e27cb)
 Uploading IMG_1386.jpeg…]()
+![IMG_1386](https://github.com/21018604/Graduation-Project/assets/91647401/893a734c-1c17-4878-b636-e41edc3a586d)
 
 
 **FINAL WORKS**
