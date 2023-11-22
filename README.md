@@ -1,5 +1,3 @@
-direction**
-
 
 **My main concern is the effect of the disappearance of the Other on democracy.**
 
@@ -59,22 +57,36 @@ Attempts are made to understand the causes of nothingness by reading books, read
 ![未命名作品 2](https://github.com/21018604/Graduation-Project/assets/91647401/d3325bdf-38ed-4280-ad1b-1c9fdbef0c9e)
 ![未命名作品_副本](https://github.com/21018604/Graduation-Project/assets/91647401/17df414e-7bd8-4ec5-8828-14d9550e0f11)
 
+
 **INSTALLATION BUILD**
 
+Purchase of materials.
+<img width="1409" alt="截屏2023-11-22 04 35 15" src="https://github.com/21018604/Graduation-Project/assets/91647401/2de6e774-22ca-4762-a3c9-371a51fae980">
+
+Burning the body and 6 legs expresses a sense of destruction and rebirth.
 ![IMG_1275](https://github.com/21018604/Graduation-Project/assets/91647401/48414a20-83d9-42a1-a0d0-511429cfafa8)
 ![IMG_1284](https://github.com/21018604/Graduation-Project/assets/91647401/e7597d6f-8c53-447d-bbbd-3a4dcbaf90ab)
+
+Spray paint all the elements white using spray paint.
 ![IMG_1296](https://github.com/21018604/Graduation-Project/assets/91647401/64cf922f-4553-43f1-8a46-602381fc55b4)
 ![IMG_1333](https://github.com/21018604/Graduation-Project/assets/91647401/32747cc1-7f89-4bcf-a8fc-e5faaca5ea83)
+![U![IMG_1375](https://github.com/21018604/Graduation-Project/assets/91647401/72a2a35f-b361-4f5e-9151-0d70b77da1b6)
+
+
+Assemble all elements.
+![IMG_1389](https://github.com/21018604/Graduation-Project/assets/91647401/b7d47f80-6421-4585-9612-5c9b287885b7)
 ![IMG_1349](https://github.com/21018604/Graduation-Project/assets/91647401/aad4cfb2-571b-45d3-980c-64e1f7e50dc2)
 ![IMG_1350](https://github.com/21018604/Graduation-Project/assets/91647401/edb345ed-1097-432d-9fba-8d7b2081f654)
 ![IMG_1![IMG_1399](https://github.com/21018604/Graduation-Project/assets/91647401/4067c358-5a12-4fa2-a0e2-aba2c0eff9ff)
 399](https://github.com/21018604/Graduation-Project/assets/91647401/dc2ab30a-4212-4f74-b775-72912acd30ca)
-![IMG_1389](https://github.com/21018604/Graduation-Project/assets/91647401/b7d47f80-6421-4585-9612-5c9b287885b7)
-![U![IMG_1375](https://github.com/21018604/Graduation-Project/assets/91647401/72a2a35f-b361-4f5e-9151-0d70b77da1b6)
-ploading IMG_1401.JPG…]()
 
 
 **TEST**
+
+Writing Arduino code.
+<img width="1377" alt="截屏2023-11-22 04 33 23" src="https://github.com/21018604/Graduation-Project/assets/91647401/58024fac-b3d6-4a16-a2f0-41b2a5e75965">
+
+Test the Arduino board.
 ![IMG_1394](https://github.com/21018604/Graduation-Project/assets/91647401/aac779ee-6b8e-4810-820e-2e91ab835c8c)
 ![IMG_1376](https://github.com/21018604/Graduation-Project/assets/91647401/9c5b3fdf-0724-4e1b-9cd5-a23385ac773d)
 ![IMG_1379](https://github.com/21018604/Graduation-Project/assets/91647401/ab170d50-d0e3-45f4-b334-05f27d3b060f)
@@ -88,8 +100,11 @@ Uploading IMG_1386.jpeg…]()
 
 **THESIS**
 
+Dissertation Outline.
 ![论文大纲](https://github.com/21018604/Graduation-Project/assets/91647401/8bd5ebb9-b00a-40b7-a0b6-12df1a069a80)
 
+Draft of the paper.
+<img width="1376" alt="截屏2023-11-22 04 39 52" src="https://github.com/21018604/Graduation-Project/assets/91647401/e877a8fb-babf-419d-af85-4a8a2f37a0e9">
 
 **SUMMARY**
 
