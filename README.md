@@ -91,8 +91,12 @@ Test the Arduino board.
 ![IMG_1376](https://github.com/21018604/Graduation-Project/assets/91647401/9c5b3fdf-0724-4e1b-9cd5-a23385ac773d)
 ![IMG_1379](https://github.com/21018604/Graduation-Project/assets/91647401/ab170d50-d0e3-45f4-b334-05f27d3b060f)
 ![![IMG_1398](https://github.com/21018604/Graduation-Project/assets/91647401/b0d8b1c8-eb9d-4b74-bf42-fca4df5e27cb)
-Uploading IMG_1386.jpeg…]()
+
+Test air pump
 ![IMG_1386](https://github.com/21018604/Graduation-Project/assets/91647401/893a734c-1c17-4878-b636-e41edc3a586d)
+
+Writing p5js code.
+<img width="1424" alt="截屏2023-11-22 04 55 23" src="https://github.com/21018604/Graduation-Project/assets/91647401/f06ddefc-f8de-49e8-95c9-2a2907974aec">
 
 
 **FINAL WORKS**
