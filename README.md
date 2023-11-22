@@ -48,6 +48,9 @@ Attempts are made to understand the causes of nothingness by reading books, read
 
 **BRAINSTROM**
 
+![未命名作品_副本2](https://github.com/21018604/Graduation-Project/assets/91647401/2dee22cb-d5f0-49d8-9314-5456b1be4b65)
+
+
 
 **SKETCH**
 
@@ -90,7 +93,11 @@ Test the Arduino board.
 ![IMG_1394](https://github.com/21018604/Graduation-Project/assets/91647401/aac779ee-6b8e-4810-820e-2e91ab835c8c)
 ![IMG_1376](https://github.com/21018604/Graduation-Project/assets/91647401/9c5b3fdf-0724-4e1b-9cd5-a23385ac773d)
 ![IMG_1379](https://github.com/21018604/Graduation-Project/assets/91647401/ab170d50-d0e3-45f4-b334-05f27d3b060f)
-![![IMG_1398](https://github.com/21018604/Graduation-Project/assets/91647401/b0d8b1c8-eb9d-4b74-bf42-fca4df5e27cb)
+![![IMG_1398](https://github.com/21018604/Graduation-Project/assets/9164740
+
+Test servo
+![IMG_1397](https://github.com/21018604/Graduation-Project/assets/91647401/5ad16de8-e6cb-4261-8725-3a7bf9602deb)
+![IMG_1398](https://github.com/21018604/Graduation-Project/assets/91647401/328be2d5-bd39-4709-abc5-f34c52c14071)
 
 Test air pump
 ![IMG_1386](https://github.com/21018604/Graduation-Project/assets/91647401/893a734c-1c17-4878-b636-e41edc3a586d)
