@@ -104,6 +104,9 @@ Writing p5js code.
 
 **THESIS**
 
+Read papers and summaries.
+<img width="1406" alt="截屏2023-11-22 05 02 05" src="https://github.com/21018604/Graduation-Project/assets/91647401/90e24038-de59-4efa-b43f-59c419321afe">
+
 Dissertation Outline.
 ![论文大纲](https://github.com/21018604/Graduation-Project/assets/91647401/8bd5ebb9-b00a-40b7-a0b6-12df1a069a80)
 
