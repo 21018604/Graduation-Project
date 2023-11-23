@@ -104,10 +104,16 @@ Test air pump
 
 Writing p5js code.
 <img width="1424" alt="截屏2023-11-22 04 55 23" src="https://github.com/21018604/Graduation-Project/assets/91647401/f06ddefc-f8de-49e8-95c9-2a2907974aec">
+<img width="758" alt="截屏2023-11-23 15 44 40" src="https://github.com/21018604/Graduation-Project/assets/91647401/49d6599b-6b6a-4c9f-a9b3-f20ae8561b8f">
 
 
 **FINAL WORKS**
-
+![IMG_0097 P过](https://github.com/21018604/Graduation-Project/assets/91647401/78f501c5-66e8-4691-8ffc-34d34bfb8732)
+![IMG_0114](https://github.com/21018604/Graduation-Project/assets/91647401/92e5d50c-d093-4fe5-9453-0c5dfd54eb55)
+![IMG_0115](https://github.com/21018604/Graduation-Project/assets/91647401/9836af34-479c-4934-91da-8770cbd81cc4)
+![IMG_0126](https://github.com/21018604/Graduation-Project/assets/91647401/e301537c-358d-4fac-9034-48e26855d7ec)
+![I![IMG_0078](https://github.com/21018604/Graduation-Project/assets/91647401/ae21028a-c394-43f6-80f9-56e28dc4d950)
+MG_0130](https://github.com/21018604/Graduation-Project/assets/91647401/43880251-c8c7-4f5f-a690-fbb3c17318a8)
 
 **THESIS**
 
