@@ -36,20 +36,27 @@ Attempts are made to understand the causes of nothingness by reading books, read
 ![IMG_1373](https://github.com/21018604/Graduation-Project/assets/91647401/4f0db945-fd00-4b5a-a033-e9ad163ab120)
 
 
-
-**BACKGROUND**
-
-
-**RESEARCH**
-
-
-**DEEP RESEARCH**
-
-
-**BRAINSTROM**
-
 ![未命名作品_副本2](https://github.com/21018604/Graduation-Project/assets/91647401/2dee22cb-d5f0-49d8-9314-5456b1be4b65)
 
+
+**Artist**
+
+Nam June Paik, with his unique artistic practice, has achieved exploration and expansion in the interaction between humans and technology. This exploration reveals the multidimensionality of human-technology interaction, not limited to the physical level but also encompassing sensory, emotional, and spiritual deep communication.
+
+Paik's work "K-456" profoundly embodies the concept of humanized technology design. Named after Mozart's Piano Concerto No. 18 in B-flat major, K.456, it presents a size similar to a real person, but its fragile appearance is composed of metal parts and wires. The robot is equipped with motorized legs, a remote control device, a tape of John F. Kennedy's inaugural speech, and can scatter beans on command. Controlled by 20 radio channels and a remote, it can perform various actions like walking, talking, singing, dancing, and even urinating. "K-456" not only demonstrates the possibilities of technology but also deeply explores the artist's perspective on human-machine relationships and whether machines can possess human traits like emotions and autonomy. This work challenges the traditional boundaries of robots as purely functional tools, introducing artistic and emotional elements, and becoming a new form of artistic expression medium.
+
+In "TV Buddha," created in 1974, Paik used closed-circuit television technology to enable the Buddha statue to watch its own image in real time. This setting created a unique visual loop where the Buddha is both the observer and the observed. The work ingeniously blends reality and technical virtuality, where the Buddha's self-observation seems like a deep meditation on the inner world. This aesthetical experience achieved through technology reshapes the meaning of self-awareness and meditation, offering a unique aesthetic perception dimension. In his works, Paik not only uses technology as a creative tool but also makes it a carrier of emotions and consciousness, exploring how technology can become a part of human emotions and thoughts, thus crossing the traditional boundaries between art and technology. "K-456 Robot" views technology as a sensory system, challenging and expanding our traditional understanding of technology. These explorations not only increase our understanding of the potential of machines but also expand the boundaries of art and technology, emphasizing that technology is not just a tool for specific tasks but also a medium for perception, emotional communication, and artistic expression.
+
+These works challenge and expand our traditional understanding of technology, emphasizing that technology is not merely a tool for accomplishing specific tasks, but also a medium for perception, emotional communication, and artistic expression. These explorations not only enhance human understanding of the potential of machines but also push the boundaries of the arts and technology fields. Through my own work, I aim to provoke critical reflection and introspection in the audience about modern society, as well as deeper contemplation of the relationship and spiritual life between humans and technology.
+![229731488_4272092b0d_z](https://github.com/21018604/Graduation-Project/assets/91647401/f50ca5cb-098b-4711-abfe-0fcf6debb727)
+![19741997-Nam-June-Paik-Buddha-Watching-TV-19741997-Virginia-Museum-of-Fine-Arts-800x1067@2x](https://github.com/21018604/Graduation-Project/assets/91647401/218bb01d-16b7-44e0-8c24-f98f9ed7788c)
+![Nam-June-Paik-–-Buddha-Watching-TV-19741997-Stone-sculpture-soil-closed-circuit-video-camera-video-monitor-tripod-plywood-base-Virginia-Museum-of-Fine-Arts](https://github.com/21018604/Graduation-Project/assets/91647401/2a5329f2-7c77-4403-9a34-09ebc49b4031)
+![v2-c3876359f55b33a94d41823ea33a8beb_b](https://github.com/21018604/Graduation-Project/assets/91647401/bf83af53-9a63-43e3-b27f-d7d2b9a716ab)
+
+
+Agentic Iced Etcetera- https://tonyoursler.com/agentic-iced-etcetera-ukraine
+The exhibition at PinchukArtCentre focuses on newly produced works, sharing the common themes of chance in everyday life, hopelessly romantic relationships, and the tendency for magical thinking, to name a few. From his earliest video and installation works, the mutability of human nature has been the central theme of Tony Oursler's work, fueled by his fascination with the psyche and systems of belief. The resulting sculptures, videos and installations challenge the viewer's preconceptions of humor, insanity, rationality, schizophrenia, and culturally constructed notions of good and evil. Formally, Oursler has developed a wide-ranging use of materials from resin, glass, fabric, steel, and found objects, which are kaleidoscopically overlaid with projection, light and sound, forming a unique embodiment of these themes. Oursler's work invites the viewer to question their relationship with mass (multi-)media, and ranges from an examination of television (and its surrounding structures) to a questioning of the psychological effects of digital communication tools such as mobile phones and the Internet.
+![Iced_banner](https://github.com/21018604/Graduation-Project/assets/91647401/ab22a624-fce3-4956-9c26-d8a0e9486870)
 
 
 **SKETCH**
@@ -59,7 +66,15 @@ Attempts are made to understand the causes of nothingness by reading books, read
 ![未命名作品](https://github.com/21018604/Graduation-Project/assets/91647401/b6975a98-87b4-4b15-be94-34895d9d9e0e)
 ![未命名作品 2](https://github.com/21018604/Graduation-Project/assets/91647401/d3325bdf-38ed-4280-ad1b-1c9fdbef0c9e)
 ![未命名作品_副本](https://github.com/21018604/Graduation-Project/assets/91647401/17df414e-7bd8-4ec5-8828-14d9550e0f11)
+I wanted my work to be a piece of art that combines the mechanical and the digital.
 
+A metaphor I use to describe my current state is that of a parasitized ant. Ants are social animals that have strict hierarchies and rules, just like the society I live in. However, there is a parasite that can invade an ant's body and control its behavior. I feel like a parasitized ant, I am controlled by an alien force that prevents me from integrating into my own society and finding my own meaning. This foreign force is the fragmented, diverse, and modernized ideas that I have been exposed to, and they have turned me into a CYBER ANT instead of a thinker. I have no values of my own, but am simply swayed by information. I struggled repeatedly between rebirth and destruction, but could not get out of this predicament.
+
+In order to express this feeling, I chose to use installation art to complete my idea. Installation art is an art form that combines various materials and objects to create a space and atmosphere. I used Arduino to realize the dynamic effects, and used wire, plaster, plastic tubes, mirrors, and collaged books to construct my installation. The theme of my installation is "Parasitized Ants", which is both a reflection of myself and my reflection on modern society.
+
+It simulates the image of a parasitized ant, cobbled together from fragmented body parts while the tentacles keep touching the screen. The ant is human-sized and made of balloons, metal, shopping carts, and wire, and its legs and antennae are controlled by servo motors that allow it to perform certain movements. The video content generated in ASCII code is displayed in real time above the computer screen. Its tentacles are constantly touching the screen, trying to produce some kind of contact with the computer in this way.
+
+The body of the ant is constructed from a shopping cart, reflecting the fact that we are in a materialistic world, dominated by consumerism. Its head is a balloon that is constantly inflated by an air pump, showing that our mental life is highly developed but disconnected from reality. Its hands and brain are two important human faculties for fine manipulation of objects in the environment and for thinking. Its touch communication with the computer utilizes these two abilities to find a closer symbiotic relationship between humans and computers. It is hoped that this work will reflect a critique and reflection on modern society, as well as an exploration of the relationship between human beings and technology and the reconstruction of the body, perception and consciousness.
 
 **INSTALLATION BUILD**
 
@@ -128,7 +143,13 @@ Draft of the paper.
 
 **SUMMARY**
 
+In the process of exploring the emptiness of the self, I encountered many challenges. At first, I felt extremely confused and helpless as I tried to understand the root of my sense of emptiness, and I was perplexed about right and wrong, true and false, past and present. I have been trying to find out how to accurately express the current state of nothingness and how to reflect the social phenomena commonly faced by contemporary youth through my feelings.
 
+My exploration initially developed along three different directions. For example, I attempted to find and express my values in different cultures, but soon realized that I could not explore true values in depth without long-term and concrete life experiences. In addition, the deadline for the project caused me to abandon this route. In the end, I decided to express my feelings about the state of nothingness by talking to different friends, reading a lot of esoteric philosophical books, watching videos, and exchanging research with Winnie about the current state of society. We lack emotional connections, such as our connection to computers and so on.
+
+I also faced many problems during the construction of the device, including financial constraints, repetitive labor, frequent code errors, and equipment failures at critical moments. Fortunately, the help of ChatGPT and the support of the school's technology department teachers solved many of my problems.
+
+Although the design of the current device still needs to be perfected, the process of conceptualizing, researching, and learning from the initial idea has been enlightening and gratifying. Although I still can't clearly judge the right and wrong of many things, and I'm not sure about my future choices, the process of thinking, learning and designing has made me feel very fulfilled and happy.
 
 
 
